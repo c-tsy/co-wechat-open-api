@@ -1,7 +1,7 @@
 {
-  "name": "co-wechat-open-api",
-  "version": "2.0.7",
-  "description": "微信开放平台Node库API，ES6版本",
+  "name": "@ctsy/co-wechat-open-api",
+  "version": "1.0.0",
+  "description": "微信开放平台Node库API，ES6版本，fork后更改的，修改BUG",
   "main": "index.js",
   "scripts": {
     "test": "make test-all",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/liwenyue/co-wechat-open-api.git"
+    "url": "git://github.com/c-tsy/co-wechat-open-api.git"
   },
   "keywords": [
     "weixin",
@@ -29,7 +29,7 @@
     "rewire": "*",
     "travis-cov": "*"
   },
-  "author": "yybs2015",
+  "author": "tansuyun.cn",
   "license": "MIT",
   "readmeFilename": "README.md",
   "directories": {
